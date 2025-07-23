@@ -59,7 +59,7 @@
 
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramirofpanduri&layout=compact&theme=algolia" alt="ramirofpanduri" />
+  <img src="https://github-readme-trophies.vercel.app/?username=ramirofpanduri&theme=gruvbox&row=1&column=6" />
  </a>
 </p>
 
